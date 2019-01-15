@@ -1,0 +1,7 @@
+Credentials cache: API:24694
+        Principal: mislamov@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  7 18:21:58 2019  Jan  8 04:21:58 2019  krbtgt/42.US.ORG@42.US.ORG
+Jan  7 18:22:02 2019  Jan  8 04:21:58 2019  ldap/ldap-master.42.us.org@42.US.ORG
+Jan  7 18:34:07 2019  Jan  8 04:21:58 2019  host/vgs-fn1.42.us.org@42.US.ORG
